@@ -1,6 +1,6 @@
 cask "diktator" do
   version "1.1.0"
-  sha256 "7f40c3d0b435d67762edf9d1ec364e78d8d4ad8f01899f2850b301d685cd9662"
+  sha256 "d608a15f3864ee3c641d74d5e3f6e70a7d59f37036e5995ca704a834688c8628"
 
   url "https://github.com/sawasawasawa/diktator-releases/releases/download/v#{version}/Diktator.zip"
   name "Diktator"
